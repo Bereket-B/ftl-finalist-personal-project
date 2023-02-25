@@ -1,3 +1,6 @@
+This was a personal website I made for the Futureforce Tech Launchpad finalist task.
+
+
 Name- Bereket Birbo  
 Hours spent- 10 hours  
 
