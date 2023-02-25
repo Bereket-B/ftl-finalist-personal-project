@@ -1,0 +1,69 @@
+body{
+  display: flex;
+  background-color: #12163a;
+}
+
+
+.rel-exp{
+  margin-left: 2%;
+  margin-right: 2%
+}
+
+.description-title{
+  text-align: center;
+}
+
+.description{
+  font-size: 20px;
+}
+
+.rel-exp-title{
+  text-align: center;
+  font-size: 80px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.line {
+    border-bottom: 2px solid #3b3687;
+    margin-top: 2px;
+    width: 100%;
+    text-align: center;
+    opacity: 0.5;
+
+}
+
+
+.projects{
+  display: flex;
+ 
+}
+
+.projects-child1{
+  flex: 1;
+  width: 33%;
+  background-color: #666b7f;
+  border-radius: 20px; 
+  margin: 1%;
+  padding: 15px
+}
+
+.projects-child2{
+  margin-right: 2%;
+  width: 33%;
+  background-color:#666b7f;
+  border-radius: 20px;
+  margin: 1%;
+  padding: 15px;
+  
+}
+
+.projects-child3{
+  margin-right: 2%;
+  width: 33%;
+  background-color:#666b7f;
+  border-radius: 20px;
+  margin: 1%;
+  padding: 15px;
+  
+}
